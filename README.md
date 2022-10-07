@@ -1,4 +1,4 @@
-<div align='center'> 
+<div align='center'>
 
 <p>   
   
@@ -18,7 +18,7 @@
 [![Linkedin: Trevor Foresta](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trevor-foresta/)](https://www.linkedin.com/in/trevor-foresta/)
 [![Twitter: Trevor Foresta](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/trevforesta)](https://twitter.com/trevforesta)
 [![Portfolio](https://img.shields.io/badge/Portfolio_Website-12b844?style=flat-square&logo=GitHub&link=https://trevforesta.github.io)](https://trevforesta.github.io/)
-[![Resume](https://img.shields.io/badge/Resume-2021--2022-2e0073?style=flat&logo=Files&logoColor=ffffff&link=https://www.dl.dropboxusercontent.com/s/pc1q5svtg448sn1/Joshua_Carney_Resume_2021_2022_NO_CONTACT.pdf?dl=0)](https://trevforesta.github.io/documents/Trevor.Foresta_Resume-full.pdf)
+[![Resume](https://img.shields.io/badge/Resume-2022-2e0073?style=flat&logo=Files&logoColor=ffffff)](https://trevforesta.github.io/documents/Foresta_Resume_NO-CONTACT.pdf)
 
 <img height="40" src="images/alakazam.gif">
 
@@ -36,7 +36,6 @@
 </div>
 
 [//]: <img align='right' src="images/TrevOverlay-removebg-preview.png" width="260">
-
 
 <!--
 **trevforesta/trevforesta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
